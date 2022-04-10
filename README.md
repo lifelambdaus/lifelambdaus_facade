@@ -1,6 +1,6 @@
 # 💚λ
 
-💚 A facade repository for 💚λ cryptostate's embassy at the United States of America.
+💚λ cryptostate embassy at the United States of America, a facade.
 
 
 
